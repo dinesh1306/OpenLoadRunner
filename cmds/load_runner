@@ -1,0 +1,6 @@
+#! /bin/python3
+from runner import LoadRunner
+
+if __name__ == "__main__":
+	l=LoadRunner()
+	l.run_load_runner()
